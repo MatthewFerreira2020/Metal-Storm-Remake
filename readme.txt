@@ -1,2 +1,2 @@
-This project was built as the final asignment for a 2D unity class. The task was to recreate the first level of a NES game. 
+This project was built as the final assignment for a 2D unity class. The task was to recreate the first level of an NES game. 
 I choose to make the first level of Metal Storm. The project is built using unity 5.5.0f3
